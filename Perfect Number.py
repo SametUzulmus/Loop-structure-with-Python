@@ -3,10 +3,6 @@
 
 # These codes allow us to find the perfect numbers at intervals we set.
 
-
-
-
-
 def Perfect(number):  # 1- Defining a function that takes a single number parameter.
     
     total = 0 
